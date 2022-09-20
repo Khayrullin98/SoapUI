@@ -1,2 +1,2 @@
 # SoapUI
-Soap-requests
+SOAP-requests
